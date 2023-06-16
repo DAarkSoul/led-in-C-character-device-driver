@@ -144,7 +144,7 @@ module_exit(led_cleanup);
 
 
 /*Meta Information*/
-MODULE_AUTHOR("Vasavi");
+MODULE_AUTHOR("Durgasish");
 MODULE_DESCRIPTION("LED Out Device Driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("1.0");
